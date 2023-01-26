@@ -1,0 +1,7 @@
+Welcome! 👋
+
+You are now on the "src" file. This part is useless for using the drainer. 
+
+Edit "settings.js" on the file back to custom the Drainer!
+
+	If you need help, DM me on Telegram: https://t.me/TecOnSellix
